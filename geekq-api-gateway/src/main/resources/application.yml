@@ -1,0 +1,20 @@
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 5000
+
+hystrix:
+  command:
+    geekq-quesstion-service:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
+    geekq-answer-service:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000

@@ -1,0 +1,18 @@
+											                 PROJECT  09:06 25-02-2021
+
+Project Details:-
+.The Proposed Sytem is a autonomous,independent,modern,scalable Microservice Architecture.
+.The Technologies being used in different layers of the project:-
+*Frontend Technologies:-
+    HTML5,CSS3,Bootstrap,JAVASCRIPT and any JS libraries/frameworks.
+*Backend Technologies:-
+   Java,J2ee,MySQL,Rest services,Spring Framework and  its Other Modules
+*Other Technologies,Tools:-
+   Maven,Tomcat,Git,GitHub,JUnit,MySQL WorkBench,
+Module:-
+ 1)Authentication Module(Registration,Login,Authorization).
+ 2)Central Configuration Module.
+ 3)Question Module.
+ 4)Answer Module.
+ 5)Service Discovery Module.
+ 6)API Gateway Module.
